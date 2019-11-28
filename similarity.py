@@ -27,4 +27,4 @@ def similarity(category, index):
 
     return sel_sim_list
 
-similarity(sys.argv[1], sys.argv[2]) # input : category(string), index(int)
+#similarity(sys.argv[1], sys.argv[2]) # input : category(string), index(int)
